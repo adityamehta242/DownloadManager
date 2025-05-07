@@ -1,0 +1,8 @@
+May 08, 2025 1:15:40 AM com.example.downloadmanager.utils.LoggerUtil logInfo
+INFO: 2025-05-08 01:15:40 - Logger initialized
+May 08, 2025 1:15:40 AM com.example.downloadmanager.utils.LoggerUtil logInfo
+INFO: 2025-05-08 01:15:40 - Starting Download Manager application
+May 08, 2025 1:15:40 AM com.example.downloadmanager.utils.LoggerUtil logInfo
+INFO: 2025-05-08 01:15:40 - Download queue initialized with max concurrent downloads: 3
+May 08, 2025 1:15:40 AM com.example.downloadmanager.utils.LoggerUtil logInfo
+INFO: 2025-05-08 01:15:40 - Download Manager initialized
